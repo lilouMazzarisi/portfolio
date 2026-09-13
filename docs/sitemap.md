@@ -13,7 +13,7 @@ Home /
 ├── Projects /projects
 │   └── Project detail /projects/:project-slug
 └── Contact /contact
-````
+```
 
 ## Home `/`
 **Purpose:** introduce myself and guide visitors toward projects.
