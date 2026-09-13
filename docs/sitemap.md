@@ -28,18 +28,25 @@ Content:
 Content:
 - Professional background
 - Experience at BMC
-- Scholar background
+- Education and training
 - Skills and interests
 
 ## How we work `/process`
-**Purpose:** explain how I approach a project - the 10 steps ritual. 
-Content:
-- Understand
-- Define
-- Design
-- Build
-- Test and launch
-- Improve
+
+**Purpose:** explain how I approach a project from the first conversation through launch.
+
+**Process:**
+
+1. **Initial conversation** — Discuss the idea, goals, expectations, and constraints.
+2. **Discovery** — Understand the business, audience, existing identity, and context.
+3. **Project definition** — Agree on objectives, scope, responsibilities, and success criteria.
+4. **Content planning** — Identify and organise the required text, images, and information.
+5. **Information architecture** — Define the sitemap, navigation, and important user journeys.
+6. **Visual design** — Translate the brand identity into typography, colour, layout, and interface elements.
+7. **Prototype and review** — Demonstrate the proposed experience and collect feedback.
+8. **Development** — Build the responsive and accessible website.
+9. **Testing and refinement** — Test functionality, content, accessibility, performance, and browser compatibility.
+10. **Launch and follow-up** — Deploy the website, verify production, and plan future improvements.
 
 ## Projects `/projects`
 **Purpose:** provide an overview of projects and experiments.
